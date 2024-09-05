@@ -21,5 +21,5 @@
 ## 主要主题
 CMChaos混沌工程企业实践 ： 分享混沌工程在中国移动中的企业落地，详解落地过程中遇到的问题、落地方案、最佳实践及落地的价值与意义等
    
-[[CMChaos混沌工程企业实践.pdf](https://github.com/chaosblade-io/community/blob/main/meeting/doc/CMChaos%E6%B7%B7%E6%B2%8C%E5%B7%A5%E7%A8%8B%E4%BC%81%E4%B8%9A%E5%AE%9E%E8%B7%B5.pdf)
+[CMChaos混沌工程企业实践.pdf](https://github.com/chaosblade-io/community/blob/main/meeting/doc/CMChaos%E6%B7%B7%E6%B2%8C%E5%B7%A5%E7%A8%8B%E4%BC%81%E4%B8%9A%E5%AE%9E%E8%B7%B5.pdf)
 
