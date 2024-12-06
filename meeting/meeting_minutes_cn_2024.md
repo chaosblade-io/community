@@ -23,3 +23,10 @@ CMChaos混沌工程企业实践 ： 分享混沌工程在中国移动中的企�
    
 [CMChaos混沌工程企业实践.pdf](https://github.com/chaosblade-io/community/blob/main/meeting/doc/CMChaos%E6%B7%B7%E6%B2%8C%E5%B7%A5%E7%A8%8B%E4%BC%81%E4%B8%9A%E5%AE%9E%E8%B7%B5.pdf)
 
+# 2024.12.05
+## 主讲人
+蔡铭霞（阿里云）
+
+## 主要主题
+windows落地进展和方案分享：主要分享对Windows操作系统能力支持feature的介绍，包括方案的分享和目前落地的进展
+https://github.com/chaosblade-io/chaosblade/issues/1059
